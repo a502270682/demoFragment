@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <TextView xmlns:andriod="http://schemas.android.com/apk/res/android"
+    andriod:id="@+id/tv_element_list"
+    andriod:gravity="center_vertical"
+    andriod:layout_width="match_parent"
+    andriod:layout_height="match_parent"
+    andriod:minHeight="?android:attr/listPreferredItemHeight"
+    andriod:text="123">
+
+</TextView>
+
+
